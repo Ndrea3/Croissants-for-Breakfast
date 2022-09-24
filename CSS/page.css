@@ -29,3 +29,9 @@ a {
 .link {
   text-align: center;
 }
+p {
+ max-width: 750px;
+ padding-top: 20px;
+ margin: auto;
+ text-align: center;
+}
