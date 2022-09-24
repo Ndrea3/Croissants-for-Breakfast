@@ -1,6 +1,8 @@
 body {
-  background: #ececec;
   text-align: center;
+}
+.background {
+  background: #feffdf;
 }
 
 h1 {
