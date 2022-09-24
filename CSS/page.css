@@ -1,5 +1,6 @@
 body {
   background: #ececec;
+  text-align: center;
 }
 
 h1 {
@@ -7,11 +8,22 @@ h1 {
   padding-top: 20px;
 }
 img {
-  max-width: 150px;
-  border-radius: 10px;
+  max-width: 550px;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 40px;
 }
 a {
- display: block;
- 
+  margin: 0 auto;
   padding: 15px;
+}
+.contact {
+  margin-top: 50px;
+  font-size: 20px;
+  text-align: center;
+  color: blueviolet;
+}
+.link {
+  text-align: center;
 }
