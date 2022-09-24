@@ -1,0 +1,17 @@
+body {
+  background: #ececec;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+img {
+  max-width: 150px;
+  border-radius: 10px;
+}
+a {
+ display: block;
+ 
+  padding: 15px;
+}
